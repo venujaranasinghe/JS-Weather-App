@@ -71,7 +71,7 @@ This app can be deployed to any static hosting platform, such as:
 If you have suggestions or encounter issues, feel free to open an issue in this repository or contact me.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+Pending...
 
 ---
 
